@@ -9,7 +9,7 @@ function App() {
         <footer>
           <a
             rel="noreferrer"
-            href=""
+            href="https://github.com/Michee029/weather-homework-react"
             className="link-secondary"
             target="_blank"
           >
